@@ -9,4 +9,4 @@ cosmos
 databricks
 aks
 akv
-
+echo finished
